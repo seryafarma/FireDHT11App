@@ -13,5 +13,7 @@ The data for the humidity and temperature is stored in Firebase Real Time Databa
 The app displays simple numbers for both humidity and temperature on the screen. Note that you would need to login to view the screen.
 
 ### Login Screen
+Login using the user email and password registered in the firebase project.
 
 ### Display Screen
+View the humidity and temperature in real time. If any value changes, the new value will be updated in the screen.
